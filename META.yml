@@ -1,0 +1,17 @@
+author: Thomas Sibley <trs@bestpractical.com>
+distribution_type: module
+generated_by: Module::Install version 0.64
+license: Perl
+name: Test-OpenID-Consumer
+no_index: 
+  directory: 
+    - inc
+    - t
+requires: 
+  Cache::FileCache: 0
+  HTTP::Server::Simple: 0
+  LWPx::ParanoidAgent: 0
+  Net::OpenID::Consumer: 0
+  Test::Builder: 0
+  Test::HTTP::Server::Simple: 0
+version: 0.01
